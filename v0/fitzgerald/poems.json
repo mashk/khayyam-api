@@ -1,578 +1,610 @@
 {
-    "1":{
-        "one":"AWAKE! For Morning in the Bowl of Night",
-        "two":"Has flung the Stone that puts the Stars to Flight:",
-        "three":"And lo! the Hunter of the East has caught",
-        "four":"The Sultan's Turret in a Noose of Light."
-    },
-    "2":{
-        "one":"Dreaming when Dawn's Left Hand was in the Sky",
-        "two":"I heard a Voice within the Tavern cry,",
-        "three":"\"Awake, my Little ones, and fill the Cup",
-        "four":"Before Life's Liquor in its Cup be dry.\""
-    },
-    "3":{
-        "one":"And, as the Cock crew, those who stood before",
-        "two":"The Tavern shouted – \"Open then the Door!",
-        "three":"You know how little while we have to stay,",
-        "four":"And once departed, may return no more.\""
-    },
-    "4":{
-        "one":"Now the New Year reviving old Desires,",
-        "two":"The thoughtful Soul to Solitude retires,",
-        "three":"Where the WHITE HAND OF MOSES on the bough",
-        "four":"Puts out, and Jesus from the Ground suspires."
-    },
-    "5":{
-        "one":"Iram indeed is gone with all its Rose,",
-        "two":"And Jamshyd's Sev'n-ring'd Cup where no-one knows;",
-        "three":"But still the Vine her ancient Ruby yields,",
-        "four":"And still a Garden by the Water blows."
-    },
-    "6":{
-        "one":"And David's Lips are lock't; but in divine",
-        "two":"High piping Pehlevi, with \"Wine! Wine! Wine!",
-        "three":"Red Wine!\" — the Nightingale cries to the Rose",
-        "four":"That yellow Cheek of her's to incarnadine."
-    },
-    "7":{
-        "one":"Come, fill the Cup, and in the Fire of Spring",
-        "two":"The Winter Garment of Repentance fling:",
-        "three":"The Bird of Time has but a little way",
-        "four":"To fly — and Lo! the Bird is on the Wing."
-    },
-    "8":{
-        "one":"Whether at Naishapur or Babylon",
-        "two":"Whether the Cup with sweet or bitter run,",
-        "three":"The Wine of Life keeps oozing drop by drop;",
-        "four":"The Leaves of Life keep dropping One by One."
-    },
-    "9":{
-        "one":"And look — a thousand Blossoms with the Day",
-        "two":"Woke — and a thousand scatter'd into Clay:",
-        "three":"And this first Summer Month that brings the Rose",
-        "four":"Shall take Jamshyd and Kaikobad away."
-    },
-    "10":{
-        "one":"Well let it take them, what have we to do",
-        "two":"With Kaikobad and Kaikhosru?",
-        "three":"Let Zal and Rustum thunder as they will",
-        "four":"Or Hatim call to supper — heed not you."
-    },
-    "11":{
-        "one":"With me along some Strip of Herbage strown",
-        "two":"That just divides the desert from the sown,",
-        "three":"Where name of slave and Sultan scarce is known,",
-        "four":"And pity Mahmud on his golden Throne."
-    },
-    "12":{
-        "one":"Here with a Loaf of Bread beneath the Bough,",
-        "two":"A Flask of Wine, a Book of Verse — and Thou",
-        "three":"Beside me singing in the wilderness —",
-        "four":"And Wilderness is Paradise enow."
-    },
-    "13":{
-        "one":"\"How sweet is mortal Sovranty!\" – think some:",
-        "two":"Others – \"How blest the Paradise to come!\"",
-        "three":"Ah, take the Cash and let the Credit go",
-        "four":"Nor heed the rumble of a distant Drum!"
-    },
-    "14":{
-        "one":"Were it not Folly, Spider-like to spin",
-        "two":"The Thread of present Life away to win",
-        "three":"What? For ourselves who know not if we shall",
-        "four":"Breathe out the very Breath we now breathe in!"
-    },
-    "15":{
-        "one":"Look to the Rose that blows about us – \"Lo,",
-        "two":"Laughing,\" she says, \"into the World I blow:",
-        "three":"At once the silken Tassel of my Purse",
-        "four":"Tear, and its Treasure on the Garden throw.\""
-    },
-    "16":{
-        "one":"The Worldly Hope men set their Hearts upon",
-        "two":"Turns Ashes – or it prospers; and anon,",
-        "three":"Like Snow upon the Desert's dusty Face",
-        "four":"Lighting a little Hour or two – is gone."
-    },
-    "17":{
-        "one":"And those who husbanded the Golden Grain,",
-        "two":"And those who flung it to the Winds like Rain,",
-        "three":"Alike to no such aureate Earth are turn'd",
-        "four":"As, buried once, Men want dug up again."
-    },
-    "18":{
-        "one":"Think, in this batter'd Caravanserai",
-        "two":"Whose Doorways are alternate Night and Day,",
-        "three":"How Sultan after Sultan with his Pomp",
-        "four":"Abode his Hour or two, and went his way."
-    },
-    "19":{
-        "one":"They say the Lion and the Lizard keep",
-        "two":"The Courts where Jamshyd gloried and drank deep;",
-        "three":"And Bahram, that great Hunter – the Wild Ass",
-        "four":"Stamps o'er his head, but cannot break his Sleep."
-    },
-    "20":{
-        "one":"I sometimes think that never blows so red",
-        "two":"The Rose as where some buried Caesar bled;",
-        "three":"That every Hyacinth the Garden wears",
-        "four":"Dropt in its Lap from some once lovely Head."
-    },
-    "21":{
-        "one":"And this delightful Herb whose tender Green",
-        "two":"Fledges the River's Lip on which we lean —",
-        "three":"Ah, lean upon it lightly! for who knows",
-        "four":"From what once lovely Lip it springs unseen!"
-    },
-    "22":{
-        "one":"Ah, my Beloved, fill the cup that clears",
-        "two":"TO-DAY of past Regrets and future Fears —",
-        "three":"Tomorrow? — Why, To-morrow I may be",
-        "four":"Myself with Yesterday's Sev'n Thousand Years."
-    },
-    "23":{
-        "one":"For some we loved, the loveliest and the best",
-        "two":"That Time and Fate of all their Vintage prest,",
-        "three":"Have drunk their Cup a Round or two before,",
-        "four":"And one by one crept silently to Rest."
-    },
-    "24":{
-        "one":"And we, that now make merry in the Room",
-        "two":"They left, and Summer dresses in new Bloom,",
-        "three":"Ourselves must we beneath the Couch of Earth",
-        "four":"Descend, ourselves to make a Couch – for whom?"
-    },
-    "25":{
-        "one":"Ah, make the most of what we yet may spend,",
-        "two":"Before we too into the Dust descend;",
-        "three":"Dust into Dust, and under Dust to lie,",
-        "four":"Sans Wine, sans Song, sans Singer, and — sans End!"
-    },
-    "26":{
-        "one":"Alike for those who for TO-DAY prepare,",
-        "two":"And those that after a TO-MORROW stare,",
-        "three":"A Muezzin from the Tower of Darkness cries",
-        "four":"\"Fools! Your reward is neither Here nor There!\""
-    },
-    "27":{
-        "one":"Why, all the Saints and Sages who discuss'd",
-        "two":"Of the Two Worlds so learnedly, are thrust",
-        "three":"Like foolish Prophets forth; their Words to Scorn",
-        "four":"Are scatter'd, and their mouths are stopt with Dust."
-    },
-    "28":{
-        "one":"Oh, come with old Khayyam, and leave the Wise",
-        "two":"To talk; one thing is certain, that Life flies;",
-        "three":"One thing is certain, and the Rest is Lies;",
-        "four":"The Flower that once has blown for ever dies."
-    },
-    "29":{
-        "one":"Myself when young did eagerly frequent",
-        "two":"Doctor and Saint, and heard great Argument",
-        "three":"About it and about: but evermore",
-        "four":"Came out by the same Door where in I went."
-    },
-    "30":{
-        "one":"With them the Seed of Wisdom did I sow,",
-        "two":"And with my own hand labour’d it to grow:",
-        "three":"And this was all the Harvest that I reap'd —",
-        "four":"\"I came like Water, and like Wind I go.\""
-    },
-    "31":{
-        "one":"Into this Universe, and why not knowing,",
-        "two":"Nor whence, like Water willy-nilly flowing:",
-        "three":"And out of it, as Wind along the Waste,",
-        "four":"I know not whither, willy-nilly blowing."
-    },
-    "32":{
-        "one":"What, without asking, hither hurried, whence?",
-        "two":"And without asking, whither hurried, hence?",
-        "three":"Oh, many a Cup of this forbidden Wine",
-        "four":"Must drown the memory of that insolence!"
-    },
-    "33":{
-        "one":"Up from Earth's Centre though the Seventh Gate",
-        "two":"I rose, and on the Throne of Saturn sate,",
-        "three":"And many a knot unravel'd by the Road;",
-        "four":"But not the Master-knot of Human Fate."
-    },
-    "34":{
-        "one":"There was a Door to which I found no Key:",
-        "two":"There was a Veil past which I could not see:",
-        "three":"Some little talk awhile of ME and THEE",
-        "four":"There seem'd - and then no more of THEE and ME."
-    },
-    "35":{
-        "one":"Then of the THEE IN ME who works behind",
-        "two":"The Veil, I lifted up my hands to find",
-        "three":"A Lamp amid the Darkness and I heard",
-        "four":"As from Without – “THE ME WITHIN THEE BLIND!”"
-    },
-    "36":{
-        "one":"Then to the Lip of this poor earthen urn",
-        "two":"I lean’d the Secret of my Life to learn",
-        "three":"And Lip to Lip it murmur’d – “While you live,",
-        "four":"“Drink! – for once dead you never shall return."
-    },
-    "37":{
-        "one":"I think the Vessel, that with fugitive",
-        "two":"Articulation answer'd, once did live,",
-        "three":"And drink; and Ah! the cold Lip I kiss'd",
-        "four":"How many Kisses might it take - and give!"
-    },
-    "38":{
-        "one":"For in the Market-place, one Dusk of Day,",
-        "two":"I watch'd the Potter thumping his wet Clay:",
-        "three":"And with its all obliterated Tongue",
-        "four":"It murmur'd - \"Gently, Brother, gently, pray!\""
-    },
-    "39":{
-        "one":"For has not such a Story from of Old",
-        "two":"Down Man’s successive generations roll’d",
-        "three":"Of such a clod of saturated earth",
-        "four":"Cast by the Maker into Human mould?"
-    },
-    "40":{
-        "one":"And not a drop that from our Cups we throw",
-        "two":"For Earth to drink of, but may steal below",
-        "three":"To quench the fire of Anguish in some Eye",
-        "four":"There hidden — far beneath and long ago."
-    },
-    "41":{
-        "one":"As then the Tulip for her morning sup",
-        "two":"Of Heavenly Vintage lifts her chalice up",
-        "three":"Do you, devoutly, do the like, till Heav’n",
-        "four":"To Earth invert you like an empty cup."
-    },
-    "42":{
-        "one":"Perplext no more with Human and Divine",
-        "two":"Tomorrow’s tangle to the winds resign",
-        "three":"And lose your fingers in the tresses of",
-        "four":"The Cypress-slender Minister of Wine."
-    },
-    "43":{
-        "one":"And if the Wine you drink, the Lip you press",
-        "two":"End in what All begins and ends in — Yes;",
-        "three":"Think then you are TODAY what YESTERDAY",
-        "four":"You were — TO-MORROW you shall not be less."
-    },
-    "44":{
-        "one":"While the Rose blows along the River Brink,",
-        "two":"With old Khayyam the Ruby Vintage drink",
-        "three":"And when the Angel with his darker Draught",
-        "four":"Draws up to Thee — take that and do not shrink."
-    },
-    "45":{
-        "one":"Why, if the Soul can fling the Dust aside,",
-        "two":"And naked on the Air of Heaven ride,",
-        "three":"Wer’t not a Shame — wer’t not a Shame for him",
-        "four":"In this clay carcase crippled to abide?"
-    },
-    "46":{
-        "one":"‘Tis but a Tent where takes his one day’s rest",
-        "two":"A Sultan to the realm of Death addrest;",
-        "three":"The Sultan rises, and the dark Ferrash",
-        "four":"Strikes, and prepares it for another Guest."
-    },
-    "47":{
-        "one":"And fear not lest Existence closing your",
-        "two":"Account, and mine, should know the like no more;",
-        "three":"The Eternal Saki from that Bowl has pour’d",
-        "four":"Millions of Bubbles like us, and will pour."
-    },
-    "48":{
-        "one":"When you and I behind the Veil are past",
-        "two":"O, but the long, long while the World shall last,",
-        "three":"Which of our Coming and Departure heeds",
-        "four":"As the Sea’s self should heed a pebble-cast."
-    },
-    "49":{
-        "one":"A Moment’s Halt – a momentary taste",
-        "two":"Of BEING from the Well amid the Waste –",
-        "three":"And LO! – the phantom Caravan has reach’d",
-        "four":"The NOTHING it set out from – Oh make haste!"
-    },
-    "50":{
-        "one":"Would you that Spangle of Existence spend",
-        "two":"About THE SECRET — quick about it, Friend!",
-        "three":"A Hair perhaps divides the False and True —",
-        "four":"And upon what, prithee, may life depend?"
-    },
-    "51":{
-        "one":"A Hair perhaps divides the False and True",
-        "two":"Yes, and a single Alif were the clue —",
-        "three":"Could you but find it — to the Treasure-house,",
-        "four":"And peradventure to The MASTER too;"
-    },
-    "52":{
-        "one":"Whose secret Presence, through Creation’s veins",
-        "two":"Running Quicksilver-like eludes your pains;",
-        "three":"Taking all shapes from Mah to Mahi; and",
-        "four":"They change and perish all — but He remains."
-    },
-    "53":{
-        "one":"A moment guess’d — then back behind the Fold",
-        "two":"Immerst of Darkness round the Drama roll’d",
-        "three":"Which, for the Pastime of Eternity,",
-        "four":"He doth Himself contrive, enact, behold."
-    },
-    "54":{
-        "one":"But if in vain, down on the stubborn floor",
-        "two":"Of Earth, and up to Heav’n’s unopening Door",
-        "three":"You gaze TODAY, while You are You — how then",
-        "four":"TOMORROW when You shall be You no more?"
-    },
-    "55":{
-        "one":"Waste not your Hour, nor in the vain pursuit",
-        "two":"Of This and That endeavour and dispute;",
-        "three":"Better be merry with the fruitful grape",
-        "four":"Than sadden after none, or bitter, fruit."
-    },
-    "56":{
-        "one":"You know, my Friends, how long since in my House",
-        "two":"For a new Marriage I did make Carouse:",
-        "three":"Divorced old barren Reason from my Bed,",
-        "four":"And took the Daughter of the Vine to Spouse."
-    },
-    "57":{
-        "one":"For \"IS\" and \"IS-NOT\" though with Rule and Line,",
-        "two":"And \"UP-AND-DOWN\" without, I could define,",
-        "three":"Of all that one should care to fathom, I",
-        "four":"Was never deep in anything but – Wine."
-    },
-    "58":{
-        "one":"Ah, but my Computations, People say,",
-        "two":"Reduced the Year to better reckoning?--Nay,",
-        "three":"'Twas only striking from the Calendar",
-        "four":"Unborn To-morrow, and dead Yesterday."
-    },
-    "59":{
-        "one":"And lately, by the Tavern Door agape,",
-        "two":"Came stealing through the Dusk an Angel Shape",
-        "three":"Bearing a Vessel on his Shoulder; and",
-        "four":"He bid me taste of it; and 'twas--the Grape!"
-    },
-    "60":{
-        "one":"The Grape that can with Logic absolute",
-        "two":"The Two-and-Seventy jarring Sects confute:",
-        "three":"The subtle Alchemist that [can] in a Trice",
-        "four":"Life's leaden Metal into Gold transmute:"
-    },
-    "61":{
-        "one":"But leave the Wise to wrangle, and with me",
-        "two":"The Quarrel of the Universe let be:",
-        "three":"And, in some corner of the Hubbub coucht,",
-        "four":"Make Game of that which makes as much of Thee."
-    },
-    "62":{
-        "one":"Why, be this Juice the growth of God, who dare",
-        "two":"Blaspheme the twisted tendril as a Snare?",
-        "three":"A Blessing, we should use it, should we not?",
-        "four":"And if a Curse — why, then. Who set it there?"
-    },
-    "63":{
-        "one":"I must abjure the Balm of Life, I must,",
-        "two":"Scared by some After-reckoning ta'en on trust,",
-        "three":"Or lured with Hope of some Diviner Drink,",
-        "four":"To fill the Cup — when crumbled into Dust!"
-    },
-    "64":{
-        "one":"Strange, is it not? that of the myriads who",
-        "two":"Before us pass'd the door of Darkness through,",
-        "three":"Not one returns to tell us of the Road,",
-        "four":"Which to discover we must travel too."
-    },
-    "65":{
-        "one":"The Revelations of Devout and Learn'd",
-        "two":"Who rose before us, and as Prophets burn'd,",
-        "three":"Are all but Stories, which, awoke from Sleep",
-        "four":"They told their fellows, and to Sleep return'd."
-    },
-    "66":{
-        "one":"I sent my Soul through the Invisible,",
-        "two":"Some letter of that After-life to spell:",
-        "three":"And by and by my Soul return'd to me,",
-        "four":"And answer'd \"I Myself am Heav'n and Hell”:"
-    },
-    "67":{
-        "one":"Heav'n but the Vision of fulfill'd Desire,",
-        "two":"And Hell the Shadow of a Soul on fire,",
-        "three":"Cast on the Darkness into which Ourselves,",
-        "four":"So late emerg'd from, shall so soon expire."
-    },
-    "68":{
-        "one":"For in and out, above, about, below,",
-        "two":"'Tis nothing but a Magic Shadow-show,",
-        "three":"Play'd in a Box whose Candle is the Sun,",
-        "four":"Round which we Phantom Figures come and go."
-    },
-    "69":{
-        "one":"'Tis all a Chequer-board of Nights and Days",
-        "two":"Where Destiny with Men for Pieces plays:",
-        "three":"Hither and thither moves, and mates, and slays,",
-        "four":"And one by one back in the Closet lays."
-    },
-    "70":{
-        "one":"The Moving Finger writes; and, having writ,",
-        "two":"Moves on: nor all thy Piety nor Wit",
-        "three":"Shall lure it back to cancel half a Line,",
-        "four":"Nor all thy Tears wash out a Word of it."
-    },
-    "71":{
-        "one":"And that inverted Bowl they call the Sky,",
-        "two":"Whereunder crawling coop'd we live and die,",
-        "three":"Lift not your hands to It for help — for It",
-        "four":"As impotently moves as you or I."
-    },
-    "72":{
-        "one":"YESTERDAY This Day's Madness did prepare;",
-        "two":"TO-MORROW'S Silence, Triumph, or Despair:",
-        "three":"Drink! for you know not whence you came, nor why:",
-        "four":"Drink! for you know not why you go, nor where."
-    },
-    "73":{
-        "one":"The Vine had struck a fibre: which about",
-        "two":"If clings my Being — let the Sufi flout;",
-        "three":"Of my Base metal may be filed a Key,",
-        "four":"That shall unlock the Door he howls without."
-    },
-    "74":{
-        "one":"And this I know: whether the one True Light",
-        "two":"Kindle to Love, or Wrath-consume me quite,",
-        "three":"One Flash of It within the Tavern caught",
-        "four":"Better than in the Temple lost outright."
-    },
-    "75":{
-        "one":"What! Out of senseless Nothing to provoke",
-        "two":"A conscious Something to resent the yoke",
-        "three":"Of unpermitted Pleasure, under pain",
-        "four":"Of Everlasting Penalties, if broke!"
-    },
-    "76":{
-        "one":"What! from his helpless Creature be repaid",
-        "two":"Pure Gold for what he lent us dross-allay'd;",
-        "three":"Sue for a Debt we never did contract,",
-        "four":"And cannot answer? — Oh the sorry trade!"
-    },
-    "77":{
-        "one":"Oh Thou, who didst with pitfall and with gin",
-        "two":"Beset the Road I was to wander in,",
-        "three":"Thou wilt not with Predestin'd Evil round",
-        "four":"Enmesh me and impute my Fall to Sin!"
-    },
-    "78":{
-        "one":"Oh Thou, who Man of baser Earth didst make,",
-        "two":"And ev'n with Eden didst devise the Snake:",
-        "three":"For all the Sin wherewith the Face of Man",
-        "four":"Is blacken'd — Man's Forgiveness give — and take!"
-    },
-    "79":{
-        "one":"Listen again, One Evening at the Close",
-        "two":"Of Ramazán, ere the better Moon arose,",
-        "three":"In that old Potter's Shop I stood alone",
-        "four":"With the clay Population round in Rows."
-    },
-    "80":{
-        "one":"And once again there gather’d a scarce heard",
-        "two":"Whisper among them; as it were, the stirr’d",
-        "three":"Ashes of some all but extinguisht Tongue",
-        "four":"Which mine ear kindled into living Word."
-    },
-    "81":{
-        "one":"Said one among them — “Surely not in vain,",
-        "two":"“My Substance from the common Earth was ta’en,",
-        "three":"“ That He who subtly wrought me into Shape",
-        "four":"“Should stamp me back to shapeless Earth again.”"
-    },
-    "82":{
-        "one":"Another said — “Why, ne’er a peevish Boy,",
-        "two":"“Would break the Bowl from which he drank in Joy;",
-        "three":"“And He that with his hand the Vessel made",
-        "four":"“Will surely not in after Wrath destroy.”"
-    },
-    "83":{
-        "one":"After a momentary silence spake",
-        "two":"Some Vessel of more ungainly Make:",
-        "three":"“They sneer at me for leaning all awry;",
-        "four":"“What! Did the Hand then of the Potter shake?”"
-    },
-    "84":{
-        "one":"Whereat some one of the loquacious Lot —",
-        "two":"I think a Sufi pipkin — waxing hot —",
-        "three":"“All this of Pot and Potter — Tell me then,",
-        "four":"“Who is the Potter, pray, and who the Pot?”"
-    },
-    "85":{
-        "one":"“Why”, said another, “Some there are who tell",
-        "two":"“Of one who threatens he will toss to Hell",
-        "three":"“The luckless Pots he marr’d in making — Pish!",
-        "four":"“He’s a Good Fellow, and ‘twill all be well.”"
-    },
-    "86":{
-        "one":"Then said another with a long drawn Sigh,",
-        "two":"“My Clay with long oblivion is gone dry:",
-        "three":"“But fill me with the old familiar Juice,",
-        "four":"“Methinks I might recover by and by.”"
-    },
-    "87":{
-        "one":"Ah, with the Grape my fading Life provide,",
-        "two":"And wash my Body whence the Life has died,",
-        "three":"And in a Windingsheet of Vine-leaf wrapt,",
-        "four":"So bury me by some sweet Garden-side"
-    },
-    "88":{
-        "one":"That ev’n my buried Ashes such a Snare",
-        "two":"Of Perfume shall fling up into the Air,",
-        "three":"As not a True Believer passing by",
-        "four":"But shall be overtaken unaware."
-    },
-    "89":{
-        "one":"Indeed the Idols I have loved so long",
-        "two":"Have done my Credit in Men’s Eye much wrong,",
-        "three":"Have drown’d my Honour in a shallow Cup",
-        "four":"And sold my Reputation for a Song."
-    },
-    "90":{
-        "one":"Indeed, indeed, Repentence oft before",
-        "two":"I swore – but was I sober when I swore?",
-        "three":"And then, and then came Spring, and Rose-in-hand",
-        "four":"My threadbare Penitence apieces tore."
-    },
-    "91":{
-        "one":"And much as Wine has play’d the Infidel,",
-        "two":"And robb’d me of my Robe of Honour – well,",
-        "three":"I often wonder what the Vintners buy",
-        "four":"One half so precious as the Goods they sell."
-    },
-    "92":{
-        "one":"Alas, that Spring should vanish with the Rose!",
-        "two":"That Youth’s sweet-scented Manuscript should close!",
-        "three":"The Nightingale that in the Branches sang,",
-        "four":"Ah, whence, and whither flown again who knows!"
-    },
-    "93":{
-        "one":"Would that some winged Angel ere too late",
-        "two":"Arrest the yet unfolded Roll of Fate,",
-        "three":"And make the stern Recorder otherwise",
-        "four":"Enregister, or quite obliterate!"
-    },
-    "94":{
-        "one":"Ah Love! could thou and I with Fate conspire",
-        "two":"To grasp the sorry Scheme of Things entire,",
-        "three":"Would not we shatter it to bits – and then",
-        "four":"Re-mould it nearer to the Heart’s Desire!"
-    },
-    "95":{
-        "one":"Ah, Moon of my Delight who know’st no wane,",
-        "two":"The Moon of Heav’n is rising once again:",
-        "three":"How oft hereafter rising shall it look",
-        "four":"Through this same Garden after me – in vain!"
-    },
-    "96":{
-        "one":"And when Thyself with shining Foot shall pass",
-        "two":"Among the Guests Star-scatter’d on the Grass,",
-        "three":"And in thy joyous Errand reach the Spot",
-        "four":"Where I made one — turn down an empty Glass"
-    }
+    "poems":[
+        {
+            "one":"Wake! For the Sun, who scatter’d into flight",
+            "two":"The Stars before him from the Field of Night,",
+            "three":"Drives Night along with them from Heav'n, and strikes",
+            "four":"The Sultan’s Turret with a Shaft of Light. "
+        },
+        {
+            "one":"Before the phantom of False morning died,",
+            "two":"Methought a Voice within the Tavern cried,",
+            "three":"“When all the Temple is prepared within,",
+            "four":"Why nods the drowsy Worshipper outside?” "
+        },
+        {
+            "one":"And, as the Cock crew, those who stood before",
+            "two":"The Tavern shouted–“Open then the Door!",
+            "three":"You know how little while we have to stay,",
+            "four":"And, once departed, may return no more.” "
+        },
+        {
+            "one":"Now the New Year reviving old Desires,",
+            "two":"The thoughtful Soul to Solitude retires,",
+            "three":"Where the White Hand Of Moses on the Bough",
+            "four":"Puts out, and Jesus from the Ground suspires. "
+        },
+        {
+            "one":"Iram indeed is gone with all his Rose,",
+            "two":"And Jamshyd’s Sev'n-ring’d Cup where no one knows;",
+            "three":"But still a Ruby kindles in the Vine,",
+            "four":"And many a Garden by the Water blows, "
+        },
+        {
+            "one":"And David’s lips are lockt; but in divine",
+            "two":"High-piping Pehlevi, with “Wine! Wine! Wine!",
+            "three":"Red Wine!”–the Nightingale cries to the Rose",
+            "four":"That sallow cheek of hers t' incarnadine. "
+        },
+        {
+            "one":"Come, fill the Cup, and in the fire of Spring",
+            "two":"Your Winter-garment of Repentance fling:",
+            "three":"The Bird of Time has but a little way",
+            "four":"To flutter–and the Bird is on the Wing. "
+        },
+        {
+            "one":"Whether at Naishapur or Babylon,",
+            "two":"Whether the Cup with sweet or bitter run,",
+            "three":"The Wine of Life keeps oozing drop by drop,",
+            "four":"The Leaves of Life keep falling one by one."
+        },
+        {
+            "one":"Each Morn a thousand Roses brings, you say;",
+            "two":"Yes, but where leaves the Rose of Yesterday?",
+            "three":"And this first Summer month that brings the Rose",
+            "four":"Shall take Jamshyd and Kaikobad away. "
+        },
+        {
+            "one":"Well, let it take them! What have we to do",
+            "two":"With Kaikobad the Great, or Kaikhosru?",
+            "three":"Let Zal and Rustum bluster as they will,",
+            "four":"Or Hatim call to Supper–heed not you "
+        },
+        {
+            "one":"With me along the strip of Herbage strown",
+            "two":"That just divides the desert from the sown,",
+            "three":"Where name of Slave and Sultan is forgot–",
+            "four":"And Peace to Mahmud on his golden Throne! "
+        },
+        {
+            "one":"A Book of Verses underneath the Bough,",
+            "two":"A Jug of Wine, a Loaf of Bread–and Thou",
+            "three":"Beside me singing in the Wilderness–",
+            "four":"Oh, Wilderness were Paradise enow! "
+        },
+        {
+            "one":"Some for the Glories of This World; and some",
+            "two":"Sigh for the Prophet’s Paradise to come;",
+            "three":"Ah, take the Cash, and let the Credit go,",
+            "four":"Nor heed the rumble of a distant Drum! "
+        },
+        {
+            "one":"Look to the blowing Rose about us–“Lo,",
+            "two":"Laughing,” she says, “into the world I blow,",
+            "three":"At once the silken tassel of my Purse",
+            "four":"Tear, and its Treasure on the Garden throw.” "
+        },
+        {
+            "one":"And those who husbanded the Golden grain,",
+            "two":"And those who flung it to the winds like Rain,",
+            "three":"Alike to no such aureate Earth are turn’d",
+            "four":"As, buried once, Men want dug up again. "
+        },
+        {
+            "one":"The Worldly Hope men set their Hearts upon",
+            "two":"Turns Ashes–or it prospers; and anon,",
+            "three":"Like Snow upon the Desert’s dusty Face,",
+            "four":"Lighting a little hour or two–is gone. "
+        },
+        {
+            "one":"Think, in this batter’d Caravanserai",
+            "two":"Whose Portals are alternate Night and Day,",
+            "three":"How Sultan after Sultan with his Pomp",
+            "four":"Abode his destined Hour, and went his way. "
+        },
+        {
+            "one":"They say the Lion and the Lizard keep",
+            "two":"The Courts where Jamshyd gloried and drank deep:",
+            "three":"And Bahram, that great Hunter–the Wild Ass",
+            "four":"Stamps o'er his Head, but cannot break his Sleep. "
+        },
+        {
+            "one":"I sometimes think that never blows so red",
+            "two":"The Rose as where some buried Caesar bled;",
+            "three":"That every Hyacinth the Garden wears",
+            "four":"Dropt in her Lap from some once lovely Head. "
+        },
+        {
+            "one":"And this reviving Herb whose tender Green",
+            "two":"Fledges the River-Lip on which we lean–",
+            "three":"Ah, lean upon it lightly! for who knows",
+            "four":"From what once lovely Lip it springs unseen! "
+        },
+        {
+            "one":"Ah, my Belov'ed fill the Cup that clears",
+            "two":"To-day Past Regrets and Future Fears:",
+            "three":"To-morrow!–Why, To-morrow I may be",
+            "four":"Myself with Yesterday’s Sev'n Thousand Years. "
+        },
+        {
+            "one":"For some we loved, the loveliest and the best",
+            "two":"That from his Vintage rolling Time hath prest,",
+            "three":"Have drunk their Cup a Round or two before,",
+            "four":"And one by one crept silently to rest. "
+        },
+        {
+            "one":"And we, that now make merry in the Room",
+            "two":"They left, and Summer dresses in new bloom",
+            "three":"Ourselves must we beneath the Couch of Earth",
+            "four":"Descend–ourselves to make a Couch–for whom? "
+        },
+        {
+            "one":"Ah, make the most of what we yet may spend,",
+            "two":"Before we too into the Dust descend;",
+            "three":"Dust into Dust, and under Dust to lie",
+            "four":"Sans Wine, sans Song, sans Singer, and–sans End! "
+        },
+        {
+            "one":"Alike for those who for To-day prepare,",
+            "two":"And those that after some To-morrow stare,",
+            "three":"A Muezzin from the Tower of Darkness cries",
+            "four":"“Fools! your Reward is neither Here nor There.” "
+        },
+        {
+            "one":"Why, all the Saints and Sages who discuss’d",
+            "two":"Of the Two Worlds so wisely–they are thrust",
+            "three":"Like foolish Prophets forth; their Words to Scorn",
+            "four":"Are scatter’d, and their Mouths are stopt with Dust. "
+        },
+        {
+            "one":"Myself when young did eagerly frequent",
+            "two":"Doctor and Saint, and heard great argument",
+            "three":"About it and about: but evermore",
+            "four":"Came out by the same door where in I went. "
+        },
+        {
+            "one":"With them the seed of Wisdom did I sow,",
+            "two":"And with mine own hand wrought to make it grow;",
+            "three":"And this was all the Harvest that I reap’d–",
+            "four":"“I came like Water, and like Wind I go.” "
+        },
+        {
+            "one":"Into this Universe, and Why not knowing",
+            "two":"Nor Whence, like Water willy-nilly flowing;",
+            "three":"And out of it, as Wind along the Waste,",
+            "four":"I know not Whither, willy-nilly blowing. "
+        },
+        {
+            "one":"What, without asking, hither hurried Whence?",
+            "two":"And, without asking, Whither hurried hence!",
+            "three":"Oh, many a Cup of this forbidden Wine",
+            "four":"Must drown the memory of that insolence! "
+        },
+        {
+            "one":"Up from Earth’s Centre through the Seventh Gate",
+            "two":"rose, and on the Throne of Saturn sate;",
+            "three":"And many a Knot unravel’d by the Road;",
+            "four":"But not the Master-knot of Human Fate. "
+        },
+        {
+            "one":"There was the Door to which I found no Key;",
+            "two":"There was the Veil through which I might not see:",
+            "three":"Some little talk awhile of Me and Thee",
+            "four":"There was–and then no more of Thee and Me. "
+        },
+        {
+            "one":"Earth could not answer; nor the Seas that mourn",
+            "two":"In flowing Purple, of their Lord forlorn;",
+            "three":"Nor rolling Heaven, with all his Signs reveal’d",
+            "four":"And hidden by the sleeve of Night and Morn. "
+        },
+        {
+            "one":"Then of the Thee in Me works behind",
+            "two":"The Veil, I lifted up my hands to find",
+            "three":"A Lamp amid the Darkness; and I heard,",
+            "four":"As from Without–“The Me Within Thee Blind!” "
+        },
+        {
+            "one":"Then to the lip of this poor earthen Urn",
+            "two":"I lean’d, the Secret of my Life to learn:",
+            "three":"And Lip to Lip it murmur’d–“While you live",
+            "four":"Drink!–for, once dead, you never shall return.” "
+        },
+        {
+            "one":"I think the Vessel, that with fugitive",
+            "two":"Articulation answer’d, once did live,",
+            "three":"And drink; and Ah! the passive Lip I kiss’d,",
+            "four":"How many Kisses might it take–and give! "
+        },
+        {
+            "one":"For I remember stopping by the way",
+            "two":"To watch a Potter thumping his wet Clay:",
+            "three":"And with its all-obliterated Tongue",
+            "four":"It murmur’d–“Gently, Brother, gently, pray!” "
+        },
+        {
+            "one":"And has not such a Story from of Old",
+            "two":"Down Man’s successive generations roll’d",
+            "three":"Of such a clod of saturated Earth",
+            "four":"Cast by the Maker into Human mould? "
+        },
+        {
+            "one":"And not a drop that from our Cups we throw",
+            "two":"For Earth to drink of, but may steal below",
+            "three":"To quench the fire of Anguish in some Eye",
+            "four":"There hidden–far beneath, and long ago. "
+        },
+        {
+            "one":"As then the Tulip for her morning sup",
+            "two":"Of Heav'nly Vintage from the soil looks up,",
+            "three":"Do you devoutly do the like, till Heav'n",
+            "four":"To Earth invert you–like an empty Cup."
+        },
+        {
+            "one":"Perplext no more with Human or Divine,",
+            "two":"To-morrow’s tangle to the winds resign,",
+            "three":"And lose your fingers in the tresses of",
+            "four":"The Cypress–slender Minister of Wine. "
+        },
+        {
+            "one":"And if the Wine you drink, the Lip you press",
+            "two":"End in what All begins and ends in–Yes;",
+            "three":"Think then you are To-day what Yesterday",
+            "four":"You were–To-morrow You shall not be less."
+        },
+        {
+            "one":"So when that Angel of the darker Drink",
+            "two":"At last shall find you by the river-brink,",
+            "three":"And, offering his Cup, invite your Soul",
+            "four":"Forth to your Lips to quaff–you shall not shrink. "
+        },
+        {
+            "one":"Why, if the Soul can fling the Dust aside,",
+            "two":"And naked on the Air of Heaven ride,",
+            "three":"Were’t not a Shame–were’t not a Shame for him",
+            "four":"In this clay carcase crippled to abide? "
+        },
+        {
+            "one":"‘Tis but a Tent where takes his one day’s rest",
+            "two":"A Sultan to the realm of Death addrest;",
+            "three":"The Sultan rises, and the dark Ferrash",
+            "four":"Strikes, and prepares it for another Guest."
+        },
+        {
+            "one":"And fear not lest Existence closing your",
+            "two":"Account, and mine, should know the like no more;",
+            "three":"The Eternal Saki from that Bowl has pour’d",
+            "four":"Millions of Bubbles like us, and will pour."
+        },
+        {
+            "one":"When You and I behind the Veil are past,",
+            "two":"Oh, but the long, long while the World shall last,",
+            "three":"Which of our Coming and Departure heeds",
+            "four":"As the Sea’s self should heed a pebble-cast. "
+        },
+        {
+            "one":"A Moment’s Halt–a momentary taste",
+            "two":"Of Being from the Well amid the Waste–",
+            "three":"And Lo!–the phantom Caravan has reach’d",
+            "four":"The Nothing it set out from–Oh, make haste! "
+        },
+        {
+            "one":"Would you that spangle of Existence spend",
+            "two":"About the Secret–Quick about it, Friend!",
+            "three":"A Hair perhaps divides the False and True–",
+            "four":"And upon what, prithee, may life depend? "
+        },
+        {
+            "one":"A Hair perhaps divides the False and True;",
+            "two":"Yes; and a single Alif were the clue–",
+            "three":"Could you but find it–to the Treasure-house,",
+            "four":"And peradventure to The Master too; "
+        },
+        {
+            "one":"Whose secret Presence, through Creation’s veins",
+            "two":"Running Quicksilver-like eludes your pains;",
+            "three":"Taking all shapes from Mah to Mahi; and",
+            "four":"They change and perish all–but He remains; "
+        },
+        {
+            "one":"A moment guess’d–then back behind the Fold",
+            "two":"Immerst of Darkness round the Drama roll’d",
+            "three":"Which, for the Pastime of Eternity,",
+            "four":"He doth Himself contrive, enact, behold. "
+        },
+        {
+            "one":"But if in vain, down on the stubborn floor",
+            "two":"Of Earth, and up to Heav'n’s unopening Door",
+            "three":"You gaze To-day, while You are You–how then",
+            "four":"To-morrow, You when shall be You no more? "
+        },
+        {
+            "one":"Waste not your Hour, nor in the vain pursuit",
+            "two":"Of This and That endeavour and dispute;",
+            "three":"Better be jocund with the fruitful Grape",
+            "four":"Than sadden after none, or bitter, Fruit. "
+        },
+        {
+            "one":"You know, my Friends, with what a brave Carouse",
+            "two":"I made a Second Marriage in my house;",
+            "three":"Divorced old barren Reason from my Bed",
+            "four":"And took the Daughter of the Vine to Spouse. "
+        },
+        {
+            "one":"For “Is” and “Is-not” though with Rule and Line",
+            "two":"And “Up” and “Down” by Logic I define,",
+            "three":"Of all that one should care to fathom,",
+            "four":"Was never deep in anything but–Wine. "
+        },
+        {
+            "one":"Ah, but my Computations, People say,",
+            "two":"Reduced the Year to better reckoning?–Nay",
+            "three":"'Twas only striking from the Calendar",
+            "four":"Unborn To-morrow, and dead Yesterday. "
+        },
+        {
+            "one":"And lately, by the Tavern Door agape,",
+            "two":"Came shining through the Dusk an Angel Shape",
+            "three":"Bearing a Vessel on his Shoulder; and",
+            "four":"He bid me taste of it; and 'twas–the Grape! "
+        },
+        {
+            "one":"The Grape that can with Logic absolute",
+            "two":"The Two-and-Seventy jarring Sects confute:",
+            "three":"The sovereign Alchemist that in a trice",
+            "four":"Life’s leaden metal into Gold transmute: "
+        },
+        {
+            "one":"The mighty Mahmud, Allah-breathing Lord",
+            "two":"That all the misbelieving and black Horde",
+            "three":"Of Fears and Sorrows that infest the Soul",
+            "four":"Scatters before him with his whirlwind Sword. "
+        },
+        {
+            "one":"Why, be this Juice the growth of God, who dare",
+            "two":"Blaspheme the twisted tendril as a Snare?",
+            "three":"A Blessing, we should use it, should we not?",
+            "four":"And if a Curse–why, then, Who set it there? "
+        },
+        {
+            "one":"I must abjure the Balm of Life, I must,",
+            "two":"Scared by some After-reckoning ta'en on trust,",
+            "three":"Or lured with Hope of some Diviner Drink,",
+            "four":"To fill the Cup–when crumbled into Dust! "
+        },
+        {
+            "one":"Oh, threats of Hell and Hopes of Paradise!",
+            "two":"One thing at least is certain–This Life flies;",
+            "three":"One thing is certain and the rest is Lies;",
+            "four":"The Flower that once has blown for ever dies. "
+        },
+        {
+            "one":"Strange, is it not? that of the myriads who",
+            "two":"Before us pass’d the door of Darkness through,",
+            "three":"Not one returns to tell us of the Road,",
+            "four":"Which to discover we must travel too. "
+        },
+        {
+            "one":"The Revelations of Devout and Learn’d",
+            "two":"Who rose before us, and as Prophets burn’d,",
+            "three":"Are all but Stories, which, awoke from Sleep,",
+            "four":"They told their comrades, and to Sleep return’d. "
+        },
+        {
+            "one":"I sent my Soul through the Invisible,",
+            "two":"Some letter of that After-life to spell:",
+            "three":"And by and by my Soul return’d to me,",
+            "four":"And answer’d “I Myself am Heav'n and Hell:” "
+        },
+        {
+            "one":"Heav'n but the Vision of fulfill’d Desire,",
+            "two":"And Hell the Shadow from a Soul on fire,",
+            "three":"Cast on the Darkness into which Ourselves,",
+            "four":"So late emerged from, shall so soon expire. "
+        },
+        {
+            "one":"We are no other than a moving row",
+            "two":"Of Magic Shadow-shapes that come and go",
+            "three":"Round with the Sun-illumined Lantern held",
+            "four":"In Midnight by the Master of the Show; "
+        },
+        {
+            "one":"But helpless Pieces of the Game He plays",
+            "two":"Upon this Chequer-board of Nights and Days;",
+            "three":"Hither and thither moves, and checks, and slays,",
+            "four":"And one by one back in the Closet lays."
+        },
+        {
+            "one":"The Ball no question makes of Ayes and Noes,",
+            "two":"But Here or There as strikes the Player goes;",
+            "three":"And He that toss’d you down into the Field,",
+            "four":"He knows about it all–He knows–HE knows! "
+        },
+        {
+            "one":"The Ball no question makes of Ayes and Noes,",
+            "two":"But Here or There as strikes the Player goes;",
+            "three":"And He that toss’d you down into the Field,",
+            "four":"He knows about it all–He knows–HE knows! "
+        },
+        {
+            "one":"And that inverted Bowl they call the Sky,",
+            "two":"Whereunder crawling coop’d we live and die,",
+            "three":"Lift not your hands to It for help–for It",
+            "four":"As impotently moves as you or I. "
+        },
+        {
+            "one":"With Earth’s first Clay They did the Last Man knead,",
+            "two":"And there of the Last Harvest sow’d the Seed:",
+            "three":"And the first Morning of Creation wrote",
+            "four":"What the Last Dawn of Reckoning shall read."
+        },
+        {
+            "one":"Yesterday This Day’s Madness did prepare;",
+            "two":"To-morrow’s Silence, Triumph, or Despair:",
+            "three":"Drink! for you know not whence you came, nor why:",
+            "four":"Drink! for you know not why you go, nor where. "
+        },
+        {
+            "one":"I tell you this–When, started from the Goal,",
+            "two":"Over the flaming shoulders of the Foal",
+            "three":"Of Heav'n Parwin and Mushtari they flung",
+            "four":"In my predestined Plot of Dust and Soul. "
+        },
+        {
+            "one":"The Vine had struck a fibre: which about",
+            "two":"If clings my being–let the Dervish flout;",
+            "three":"Of my Base metal may be filed a Key,",
+            "four":"That shall unlock the Door he howls without. "
+        },
+        {
+            "one":"And this I know: whether the one True Light",
+            "two":"Kindle to Love, or Wrath-consume me quite,",
+            "three":"One Flash of It within the Tavern caught",
+            "four":"Better than in the Temple lost outright. "
+        },
+        {
+            "one":"What! out of senseless Nothing to provoke",
+            "two":"A conscious Something to resent the yoke",
+            "three":"Of unpermitted Pleasure, under pain",
+            "four":"Of Everlasting Penalties, if broke! "
+        },
+        {
+            "one":"What! from his helpless Creature be repaid",
+            "two":"Pure Gold for what he lent him dross-allay’d–",
+            "three":"Sue for a Debt he never did contract,",
+            "four":"And cannot answer–Oh, the sorry trade! "
+        },
+        {
+            "one":"Oh, Thou, who didst with pitfall and with gin",
+            "two":"Beset the Road I was to wander in,",
+            "three":"Thou wilt not with Predestined Evil round",
+            "four":"Enmesh, and then impute my Fall to Sin! "
+        },
+        {
+            "one":"Oh, Thou who Man of baser Earth didst make,",
+            "two":"And ev'n with Paradise devise the Snake:",
+            "three":"For all the Sin wherewith the Face of Man",
+            "four":"Is blacken’d–Man’s forgiveness give–and take! "
+        },
+        {
+            "one":"As under cover of departing Day",
+            "two":"Slunk hunger-stricken Ramazan away,",
+            "three":"Once more within the Potter’s house alone",
+            "four":"I stood, surrounded by the Shapes of Clay. "
+        },
+        {
+            "one":"Shapes of all Sorts and Sizes, great and small,",
+            "two":"That stood along the floor and by the wall;",
+            "three":"And some loquacious Vessels were; and some",
+            "four":"Listen’d perhaps, but never talk’d at all. "
+        },
+        {
+            "one":"Said one among them–“Surely not in vain",
+            "two":"My substance of the common Earth was ta'en",
+            "three":"And to this Figure moulded, to be broke,",
+            "four":"Or trampled back to shapeless Earth again.”"
+        },
+        {
+            "one":"Then said a Second–“Ne'er a peevish Boy",
+            "two":"Would break the Bowl from which he drank in joy,",
+            "three":"And He that with his hand the Vessel made",
+            "four":"Will surely not in after Wrath destroy.” "
+        },
+        {
+            "one":"After a momentary silence spake",
+            "two":"Some Vessel of a more ungainly Make;",
+            "three":"“They sneer at me for leaning all awry:",
+            "four":"What! did the Hand then of the Potter shake?” "
+        },
+        {
+            "one":"Whereat some one of the loquacious Lot–",
+            "two":"I think a Sufi pipkin-waxing hot–",
+            "three":"“All this of Pot and Potter–Tell me then,",
+            "four":"Who is the Potter, pray, and who the Pot?”"
+        },
+        {
+            "one":"“Why,” said another, “Some there are who tell",
+            "two":"Of one who threatens he will toss to Hell",
+            "three":"The luckless Pots he marr’d in making–Pish!",
+            "four":"He’s a Good Fellow, and 'twill all be well.”"
+        },
+        {
+            "one":"“Well,” Murmur’d one, “Let whoso make or buy,",
+            "two":"My Clay with long Oblivion is gone dry:",
+            "three":"But fill me with the old familiar juice,",
+            "four":"Methinks I might recover by and by.” "
+        },
+        {
+            "one":"So while the Vessels one by one were speaking,",
+            "two":"The little Moon look’d in that all were seeking:",
+            "three":"And then they jogg’d each other, “Brother! Brother!",
+            "four":"Now for the Porter’s shoulder-knot a-creaking!” "
+        },
+        {
+            "one":"Ah, with the Grape my fading Life provide,",
+            "two":"And wash the Body whence the Life has died,",
+            "three":"And lay me, shrouded in the living Leaf,",
+            "four":"By some not unfrequented Garden-side."
+        },
+        {
+            "one":"That ev'n my buried Ashes such a snare",
+            "two":"Of Vintage shall fling up into the Air",
+            "three":"As not a True-believer passing by",
+            "four":"But shall be overtaken unaware. "
+        },
+        {
+            "one":"Indeed the Idols I have loved so long",
+            "two":"Have done my credit in this World much wrong:",
+            "three":"Have drown’d my Glory in a shallow Cup",
+            "four":"And sold my Reputation for a Song. "
+        },
+        {
+            "one":"Indeed, indeed, Repentance of before",
+            "two":"I swore–but was I sober when I swore?",
+            "three":"And then and then came Spring, and Rose-in-hand",
+            "four":"My thread-bare Penitence apieces tore. "
+        },
+        {
+            "one":"And much as Wine has play’d the Infidel,",
+            "two":"And robb’d me of my Robe of Honour–Well,",
+            "three":"I wonder often what the Vintners buy",
+            "four":"One half so precious as the stuff they sell."
+        },
+        {
+            "one":"Yet Ah, that Spring should vanish with the Rose!",
+            "two":"That Youth’s sweet-scented manuscript should close!",
+            "three":"The Nightingale that in the branches sang,",
+            "four":"Ah, whence, and whither flown again, who knows! "
+        },
+        {
+            "one":"Would but the Desert of the Fountain yield",
+            "two":"One glimpse–if dimly, yet indeed, reveal’d,",
+            "three":"To which the fainting Traveller might spring,",
+            "four":"As springs the trampled herbage of the field! "
+        },
+        {
+            "one":"Would but some wing'ed Angel ere too late",
+            "two":"Arrest the yet unfolded Roll of Fate,",
+            "three":"And make the stern Recorder otherwise",
+            "four":"Enregister, or quite obliterate! "
+        },
+        {
+            "one":"Ah, Love! could you and I with Him conspire",
+            "two":"To grasp this sorry Scheme of Things entire,",
+            "three":"Would not we shatter it to bits–and then",
+            "four":"Re-mould it nearer to the Heart’s Desire! "
+        },
+        {
+            "one":"Yon rising Moon that looks for us again–",
+            "two":"How oft hereafter will she wax and wane;",
+            "three":"How oft hereafter rising look for us",
+            "four":"Through this same Garden–and for one in vain! "
+        },
+        {
+            "one":"And when like her, oh, Saki, you shall pass",
+            "two":"Among the Guests Star-scatter’d on the Grass,",
+            "three":"And in your joyous errand reach the spot",
+            "four":"Where I made One–turn down an empty Glass!"
+        }
+    ]
 }
