@@ -1,0 +1,30 @@
+﻿{
+    "list":[
+        {
+            "lang":"fa",
+            "title":"فارسی",
+            "direction":"rtl",
+            "versions":[
+                {
+                    "by":"صادق هدایت",
+                    "url":"hedayat"
+                },
+                {
+                    "by":"محمدعلی فروغی",
+                    "url":"foroughi"
+                }
+            ]
+        },
+        {
+            "lang":"en",
+            "title":"English",
+            "direction":"ltr",
+            "versions":[
+                {
+                    "by":"Edward FitzGerald",
+                    "url":"fitzgerald"
+                }
+            ]
+        }
+    ]
+}
