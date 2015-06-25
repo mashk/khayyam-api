@@ -4,7 +4,7 @@
             "lang":"fa",
             "title":"فارسی",
             "direction":"rtl",
-            "versions":[
+            "editions":[
                 {
                     "by":"صادق هدایت",
                     "url":"hedayat"
@@ -19,7 +19,7 @@
             "lang":"en",
             "title":"English",
             "direction":"ltr",
-            "versions":[
+            "editions":[
                 {
                     "by":"Edward FitzGerald",
                     "url":"fitzgerald"
